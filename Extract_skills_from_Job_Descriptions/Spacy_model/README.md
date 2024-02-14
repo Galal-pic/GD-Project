@@ -23,7 +23,7 @@ When you call `nlp` on a text, spaCy first tokenizes the text to produce a Doc o
 
 * We tested the model on 100 job descriptions and it showed us these results
 
-1. **Precision** = 0.89   |     0.84,   |0.86|
+1. **Precision** = 0.89 
 2. **Recall** = 0.84
 3. **F1 Score** = 0.86
 I am satisfied with these results, but I will work on other models to extract more details and more features
