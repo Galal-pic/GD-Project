@@ -47,6 +47,6 @@ For the LSTM model, we tried to use additional features like is_lower (if the to
 ## Results
 | **Model** | **Precision** | **Recall** | **F1 Score** |
 | --- | --- | --- | --- |
-| BERT | 0.930325 | 0.948412 | 0.939281 |
+| BERT | 0.93 | 0.94 | 0.93|
 | Spacy_NER | 0.89 | 0.84 | 0.86  |
 | LSTM | 0.70 | 0.72 | 0.71 |
